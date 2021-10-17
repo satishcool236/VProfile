@@ -5,6 +5,7 @@
     <artifactId>vprofile</artifactId>
     <packaging>war</packaging>
     <version>v1</version>
+    <!-- satish -->	
     <name>Visualpathit VProfile Webapp</name>
     <url>http://maven.apache.org</url>
     <properties>
